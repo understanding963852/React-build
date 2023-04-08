@@ -38,7 +38,7 @@ PS C:\D\rock> npm gh-pages -d build
 ![image](https://user-images.githubusercontent.com/60366769/230711438-cca6f6a3-d313-4713-88cb-eb60bb91b195.png)
 
 
-
+주소를 실행하면 실행하는것을 볼수 있다.
 
 
 

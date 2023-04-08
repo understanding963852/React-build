@@ -2,7 +2,8 @@
 
 ##   [.gitignore 이용해 git에 추가되지 말아야 할 파일 정의하기](https://kotlinworld.com/269) 
 
-<img src="https://understanding963852.github.io/img/build.png" width="500">
+![image](https://user-images.githubusercontent.com/60366769/230711765-3c32114d-3b5b-41b9-b87a-614f08d953fd.png)
+
 
 -----------------------------------------
 - build폴더를 push할 필요없음

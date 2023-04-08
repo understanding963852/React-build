@@ -30,7 +30,9 @@ PS C:\D\rock> npm gh-pages -d build
 
 - github를 조금 기다리면 ⬇️ 아래와 같이 변경된것을 확인할수 있다.
 
-![image](https://user-images.githubusercontent.com/60366769/230711486-e20ea831-4d52-432c-99e9-c34dc7f1c243.png)
+
+![image](https://user-images.githubusercontent.com/60366769/230711527-e778ad93-1bfc-47b8-b2b5-68c1293f0ef0.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/60366769/230711438-cca6f6a3-d313-4713-88cb-eb60bb91b195.png)

@@ -27,3 +27,11 @@ PS C:\D\rock> npm run build
 `
 PS C:\D\rock> npm gh-pages -d build
 `
+
+- github를 조금 기다리면 ⬇️ 아래와 같이 변경된것을 확인할수 있다.
+
+![image](https://user-images.githubusercontent.com/60366769/230711071-a6dc7ec6-c270-4a5d-844f-0fa2462b7ae4.png)
+
+
+
+

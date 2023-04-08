@@ -13,9 +13,12 @@ PS C:\D\rock> npm run build
 `
 
 
--github pages 라이브러리를 나의 프로젝트에 다운받기
+- github pages 라이브러리를 나의 프로젝트에 다운받기
 
 `
 PS C:\D\rock> npm install gh-pages
 `
 
+- github pages 라이브러리를 통해 build폴더를 github에 올리기
+
+gh-pages -d build

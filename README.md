@@ -20,24 +20,20 @@
 
 <img src="https://understanding963852.github.io/img/build2.png" width="800">
 
-<img src="https://user-images.githubusercontent.com/60366769/230750915-44c31ecf-75e0-4579-ac11-d2ff99c6d32d.png" width="800">
+<img src="https://user-images.githubusercontent.com/60366769/230750915-44c31ecf-75e0-4579-ac11-d2ff99c6d32d.png" width="500">
 
 
 
 `
 PS C:\D\rock> npm run build
 `
+- ⬇️ 아래내용을 적으며 build폴더가 github에 올라간다
 
 `
 C:\D\rock>npm run deploy
 `
 
 
-- ⬇️ 아래내용을 적으며 build폴더가 github에 올라간다
-
-`
-PS C:\D\rock> npm gh-pages -d build
-`
 
 - github를 조금 기다리면 ⬇️ 아래와 같이 변경된것을 확인할수 있다.
 
